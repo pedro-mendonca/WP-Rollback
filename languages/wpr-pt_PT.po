@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WP Rollback\n"
-"POT-Creation-Date: 2016-09-22 22:17+0100\n"
-"PO-Revision-Date: 2016-09-22 22:19+0100\n"
+"POT-Creation-Date: 2016-09-22 22:56+0100\n"
+"PO-Revision-Date: 2016-09-22 22:57+0100\n"
 "Last-Translator: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language-Team: Pedro Mendonça <ped.gaspar@gmail.com>\n"
 "Language: pt_PT\n"
@@ -19,7 +19,7 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #: includes/rollback-action.php:35
-msgid "This rollback request is a missing proper query string. Please contact support."
+msgid "This rollback request is missing a proper query string. Please contact support."
 msgstr "Este pedido de reversão não tem os valores de consulta adequados. Por favor contacte o suporte."
 
 #: includes/rollback-menu.php:12
@@ -121,9 +121,3 @@ msgstr "Reverta (ou adiante) a versão de qualquer plugin ou tema do WordPress.o
 #. Author of the plugin/theme
 msgid "WordImpress"
 msgstr "WordImpress"
-
-#~ msgid "This rollback request is missing proper query string. Please contact support."
-#~ msgstr "Este pedido de reversão não tem os valores de consulta adequados. Por favor contacte o suporte."
-
-#~ msgid "http://wordimpress.com"
-#~ msgstr "http://wordimpress.com"
